@@ -1,0 +1,12 @@
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\bin\Release\netcoreapp3.1\ClientManager.Integration.Sql.deps.json
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\bin\Release\netcoreapp3.1\ClientManager.Integration.Sql.dll
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\bin\Release\netcoreapp3.1\ClientManager.Integration.Sql.pdb
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\bin\Release\netcoreapp3.1\ClientManager.Domain.dll
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\bin\Release\netcoreapp3.1\ClientManager.Domain.pdb
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\obj\Release\netcoreapp3.1\ClientManager.Integration.Sql.csprojAssemblyReference.cache
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\obj\Release\netcoreapp3.1\ClientManager.Integration.Sql.AssemblyInfoInputs.cache
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\obj\Release\netcoreapp3.1\ClientManager.Integration.Sql.AssemblyInfo.cs
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\obj\Release\netcoreapp3.1\ClientManager.Integration.Sql.csproj.CoreCompileInputs.cache
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\obj\Release\netcoreapp3.1\ClientManager.Integration.Sql.csproj.CopyComplete
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\obj\Release\netcoreapp3.1\ClientManager.Integration.Sql.dll
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Integration.Sql\obj\Release\netcoreapp3.1\ClientManager.Integration.Sql.pdb

@@ -1,0 +1,13 @@
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\bin\Debug\netcoreapp3.1\ClientManager.Web.Api.deps.json
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\bin\Debug\netcoreapp3.1\ClientManager.Web.Api.dll
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\bin\Debug\netcoreapp3.1\ClientManager.Web.Api.pdb
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\bin\Debug\netcoreapp3.1\ClientManager.Domain.dll
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\bin\Debug\netcoreapp3.1\ClientManager.Domain.pdb
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\obj\Debug\netcoreapp3.1\ClientManager.Web.Api.csprojAssemblyReference.cache
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\obj\Debug\netcoreapp3.1\ClientManager.Web.Api.AssemblyInfoInputs.cache
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\obj\Debug\netcoreapp3.1\ClientManager.Web.Api.AssemblyInfo.cs
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\obj\Debug\netcoreapp3.1\ClientManager.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\obj\Debug\netcoreapp3.1\ClientManager.Web.Api.csproj.CopyComplete
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\obj\Debug\netcoreapp3.1\ClientManager.Web.Api.dll
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Web.Api\obj\Debug\netcoreapp3.1\ClientManager.Web.Api.pdb

@@ -1,0 +1,9 @@
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Domain\bin\Debug\netcoreapp3.1\ClientManager.Domain.deps.json
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Domain\bin\Debug\netcoreapp3.1\ClientManager.Domain.dll
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Domain\bin\Debug\netcoreapp3.1\ClientManager.Domain.pdb
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Domain\obj\Debug\netcoreapp3.1\ClientManager.Domain.csprojAssemblyReference.cache
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Domain\obj\Debug\netcoreapp3.1\ClientManager.Domain.AssemblyInfoInputs.cache
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Domain\obj\Debug\netcoreapp3.1\ClientManager.Domain.AssemblyInfo.cs
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Domain\obj\Debug\netcoreapp3.1\ClientManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Domain\obj\Debug\netcoreapp3.1\ClientManager.Domain.dll
+C:\Users\schonc219\source\repos\ClientManager\ClientManager.Domain\obj\Debug\netcoreapp3.1\ClientManager.Domain.pdb

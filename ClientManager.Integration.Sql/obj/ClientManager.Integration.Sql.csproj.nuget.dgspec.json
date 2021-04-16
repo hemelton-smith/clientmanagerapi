@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj",
+        "projectName": "ClientManager.Domain",
+        "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\schonc219\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\schonc219\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj",
+        "projectName": "ClientManager.Integration.Sql",
+        "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj",
+        "packagesPath": "C:\\Users\\schonc219\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\schonc219\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj": {
+                "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[3.2.15, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.2.15, )"
+            },
+            "FluentMigrator.Runner.SqlServer": {
+              "target": "Package",
+              "version": "[3.2.15, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
