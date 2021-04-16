@@ -15,30 +15,30 @@ export class ClientService {
   constructor(private http:HttpClient) { }
 
   getAllClients():Observable<IClient[]>{
-    return this.http.get<IClient[]>(`${this.baseUrl}/getallclients`);
+    return this.http.get<IClient[]>(`${this.baseUrl}/api/getallclients`);
   }
 
   AddClient(clients:IAddClientRequest){
-    return this.http.post(`${this.baseUrl}/client`, clients);
+    return this.http.post(`${this.baseUrl}/api/client`, clients);
   }
 
   InserAddress(val:IAddress[]){
-    return this.http.post(`${this.baseUrl}/insertAddress`, val);
+    return this.http.post(`${this.baseUrl}/api/insertAddress`, val);
   }
 
   UpdateClient(val:IAddClientRequest){
-    return this.http.put(`${this.baseUrl}/updateclient`, val);
+    return this.http.put(`${this.baseUrl}/api/updateclient`, val);
   }
 
   DeleteClient(val:any){
-    return this.http.delete(`${this.baseUrl}/deleterecord?clientId=`+val);
+    return this.http.delete(`${this.baseUrl}/api/deleterecord?clientId=`+val);
   }
 
   ExportClientInformation(){
-    return this.http.get(`${this.baseUrl}/export`);
+    return this.http.get(`${this.baseUrl}/api/export`);
   }
 
   ClientAddress(clientId:String):Observable<IAddress[]>{
-      return this.http.get<IAddress[]>(`${this.baseUrl}/clientaddresses?clientId=`+clientId);
+      return this.http.get<IAddress[]>(`${this.baseUrl}/api/clientaddresses?clientId=`+clientId);
   }
 }

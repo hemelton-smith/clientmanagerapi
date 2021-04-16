@@ -5877,11 +5877,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj",
+      "projectUniqueName": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj",
       "projectName": "ClientManager.Integration.Sql",
-      "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj",
+      "projectPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj",
       "packagesPath": "C:\\Users\\schonc219\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\obj\\",
+      "outputPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Integration.Sql\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5901,8 +5901,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj": {
-              "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj"
+            "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Domain\\ClientManager.Domain.csproj": {
+              "projectPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Domain\\ClientManager.Domain.csproj"
             }
           }
         }

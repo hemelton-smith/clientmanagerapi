@@ -1,6 +1,6 @@
 {
     "/api": {
-      "target": "https://clientmanagerapi.azurewebsites.net/",
+      "target": "https://localhost:44361/",
       "secure": false,
       "changeOrigin": true,
       "pathRewrite": {

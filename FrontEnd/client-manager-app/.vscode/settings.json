@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cefa8e15-762f-403e-a315-1c37a7274dd6/resourceGroups/ClientManager/providers/Microsoft.Web/sites/clientmanagerapp",
+    "appService.deploySubpath": "dist\\client-manager"
+}

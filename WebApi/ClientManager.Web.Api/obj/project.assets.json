@@ -3895,11 +3895,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Web.Api\\ClientManager.Web.Api.csproj",
+      "projectUniqueName": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Web.Api\\ClientManager.Web.Api.csproj",
       "projectName": "ClientManager.Web.Api",
-      "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Web.Api\\ClientManager.Web.Api.csproj",
+      "projectPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Web.Api\\ClientManager.Web.Api.csproj",
       "packagesPath": "C:\\Users\\schonc219\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Web.Api\\obj\\",
+      "outputPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Web.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -3919,8 +3919,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj": {
-              "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj"
+            "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Domain\\ClientManager.Domain.csproj": {
+              "projectPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Domain\\ClientManager.Domain.csproj"
             }
           }
         }

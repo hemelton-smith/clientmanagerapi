@@ -4,7 +4,7 @@ using System;
 
 namespace ClientManager.Web.Main.Infrastructure
 {
-    public class DbSettings: IDbSettings
+    public class DbSettings : IDbSettings
     {
         private readonly IConfiguration _configuration;
 
@@ -12,6 +12,6 @@ namespace ClientManager.Web.Main.Infrastructure
         {
             _configuration = configuration ?? throw new ArgumentNullException(nameof(configuration));
         }
-        public string ConnectionString => "Server=tcp:clientmanagerdbserver.database.windows.net,1433;Initial Catalog=ClientManager;Persist Security Info=False;User ID=clientmanager;Password=Hemelton-1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;MultipleActiveResultSets=false";
+        public string ConnectionString => _configuration.GetConnectionString("ClientManagerDbConnection");
     }
 }

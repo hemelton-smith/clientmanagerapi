@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mPjt2otJ5R01LW48FrfIFkokmvd7ZhltqWVAH/oBGNugR68mu2Rur8M+Nb/ixpCj3/tOP3F1Vyob0rFXawwoZw==",
+  "dgSpecHash": "0oCY98aF8md4qdSyQs/m3gfAtaBu0TXGV3IUTSD98o1BXQyS8zIv+eYb3fskN8PhUK3YiAgsWX5aLYwpTb27dA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj",
+  "projectFilePath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\schonc219\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\schonc219\\.nuget\\packages\\fluentmigrator\\3.2.15\\fluentmigrator.3.2.15.nupkg.sha512",

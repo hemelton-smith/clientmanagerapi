@@ -3876,11 +3876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Domain\\ClientManager.Domain.csproj",
       "projectName": "ClientManager.Domain",
-      "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj",
+      "projectPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Domain\\ClientManager.Domain.csproj",
       "packagesPath": "C:\\Users\\schonc219\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\obj\\",
+      "outputPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

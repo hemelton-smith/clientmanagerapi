@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJNXUxDEfWQgzPHuX4uSZTSbBt+GH1J4CtaOWvFokS0byDC+k07lCafib8dIbr3xLbf9cF28Tw7d+vu5r13hcA==",
+  "dgSpecHash": "QQlXtgEoWc3dW5uMuz2q9cV4DrC1Mhm/2CPAa/FSHKfrqXgbBWM9iSh/Ov1GE9bSS4HAcXqbEmZOxvFuj0PBHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Domain\\ClientManager.Domain.csproj",
+  "projectFilePath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Domain\\ClientManager.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\schonc219\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\schonc219\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

@@ -5916,11 +5916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Web.Main\\ClientManager.Web.Main.csproj",
+      "projectUniqueName": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Web.Main\\ClientManager.Web.Main.csproj",
       "projectName": "ClientManager.Web.Main",
-      "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Web.Main\\ClientManager.Web.Main.csproj",
+      "projectPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Web.Main\\ClientManager.Web.Main.csproj",
       "packagesPath": "C:\\Users\\schonc219\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Web.Main\\obj\\",
+      "outputPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Web.Main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5940,11 +5940,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj": {
-              "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj"
+            "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj": {
+              "projectPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Integration.Sql\\ClientManager.Integration.Sql.csproj"
             },
-            "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Web.Api\\ClientManager.Web.Api.csproj": {
-              "projectPath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Web.Api\\ClientManager.Web.Api.csproj"
+            "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Web.Api\\ClientManager.Web.Api.csproj": {
+              "projectPath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Web.Api\\ClientManager.Web.Api.csproj"
             }
           }
         }

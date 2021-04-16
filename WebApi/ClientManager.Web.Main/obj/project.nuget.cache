@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8L+FH9MFvMk3AJ6jhb4OkZzG6kljq8lKoByimi0aDbXqlzQUeY+MotS/rVFS7HoFP7M5lCEOJtcwXE/WJnQ3fg==",
+  "dgSpecHash": "w2oiRFOOg+Rttod23PoDeVm+myOszp3x3ZsYlXlUW0uGnxcNM7WvdGXNwJsHZ+t3qcrWzwpBA+CqVQhuPcC3OQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\schonc219\\source\\repos\\ClientManager\\ClientManager.Web.Main\\ClientManager.Web.Main.csproj",
+  "projectFilePath": "C:\\Users\\schonc219\\OneDrive\\Desktop\\clientmanagerapi\\WebApi\\ClientManager.Web.Main\\ClientManager.Web.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\schonc219\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\schonc219\\.nuget\\packages\\fluentmigrator\\3.2.15\\fluentmigrator.3.2.15.nupkg.sha512",
