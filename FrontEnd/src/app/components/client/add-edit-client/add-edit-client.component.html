@@ -1,0 +1,180 @@
+
+  <div class="m-2">
+<h5>Personal details</h5>
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="">First name</label>
+      <input type="text" class="form-control" required [(ngModel)]="firstName" placeholder="First name">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="">Last name</label>
+      <input type="text" class="form-control" required [(ngModel)]="lastName" placeholder="Last name">
+    </div>
+  </div>
+
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="">Gender</label>
+      <select id="inputState" class="form-control" required [(ngModel)]="gender">
+        <option selected disabled>Choose gender</option>
+        <option value="Male" selected>Male</option>
+        <option value="Female">Female</option>
+      </select>
+      
+    </div>
+    <div class="form-group col-md-6">
+      <label for="">Cell number</label>
+      <input type="text" class="form-control" required [(ngModel)]="cellNumber" maxlength="10" placeholder="eg. 0712345678">
+    </div>
+  </div>
+
+  <div class="form-row">
+  
+    <div class="form-group col-md-6">
+      <label for="">Work number</label>
+      <input type="text" class="form-control" maxlength="10" [(ngModel)]="workNumber"
+        placeholder="eg. 0312345678">
+    </div>
+  </div>
+    <div class="accordion mb-2" id="accordionExample">
+      <div class="card">
+        <div class="card-header" id="headingOne">
+          <h2 class="mb-0">
+            <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              Residential address
+            </button>
+          </h2>
+        </div>
+    
+        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+          <div class="card-body">
+            
+            <div class="form-row">
+              <div class="form-group col-md-12">
+                
+                <input hidden type="text" class="form-control" [(ngModel)]="residential" placeholder="Type">
+              </div>
+            </div>
+        
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="">Street address</label>
+                <input type="text" class="form-control" required [(ngModel)]="streetAddress" placeholder="Street address">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Town</label>
+                <input type="text" class="form-control" required [(ngModel)]="town" placeholder="Town">
+              </div>
+            </div>
+        
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="">Code</label>
+                <input type="text" class="form-control" required [(ngModel)]="code" placeholder="Code">
+              </div>
+            
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingTwo">
+          <h2 class="mb-0">
+            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              Work address
+            </button>
+          </h2>
+        </div>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+          <div class="card-body">
+            <div class="form-row">
+              <div class="form-group col-md-12">
+                
+                <input hidden type="text" class="form-control" [(ngModel)]="work" placeholder="Type">
+              </div>
+            </div>
+        
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="">Line 1</label>
+                <input type="text" class="form-control" [(ngModel)]="WstreetAddress" placeholder="Street address">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Town</label>
+                <input type="text" class="form-control" [(ngModel)]="Wtown" placeholder="Town">
+              </div>
+            </div>
+        
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="">Code</label>
+                <input type="text" class="form-control" [(ngModel)]="Wcode" placeholder="Code">
+              </div>
+            
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingThree">
+          <h2 class="mb-0">
+            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              Postal address
+            </button>
+          </h2>
+        </div>
+        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+          <div class="card-body">
+            <div class="form-row">
+              <div class="form-group col-md-12">      
+                <input hidden type="text" class="form-control" [(ngModel)]="postal" placeholder="Type">
+              </div>
+            </div>
+        
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="">Postal address</label>
+                <input type="text" class="form-control" [(ngModel)]="PstreetAddress" placeholder="Street address">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="">Town</label>
+                <input type="text" class="form-control" [(ngModel)]="Ptown" placeholder="Town">
+              </div>
+            </div>
+        
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="">Code</label>
+                <input type="text" class="form-control" [(ngModel)]="Pcode" placeholder="Code">
+              </div>    
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div *ngIf="!statusVisible">
+      <button (click)="addClient()" *ngIf="!client.id" class="btn btn-primary width">
+        Add client {{client.id}}
+    </button>
+
+    <button (click)="updateClient()" *ngIf="client.id" class="btn btn-primary width">
+        Update client
+    </button> 
+    </div>
+
+    <div (click)="refreshClients()" *ngIf="ActivateAddSuccess" class="alert alert-success mt-2" role="alert">
+      <span style="float: right;">&times;</span>
+      Client added successfully
+    </div> 
+
+    <div (click)="refreshClients()" *ngIf="ActivateUpdateSuccess" class="alert alert-success mt-2" role="alert">
+      <span style="float: right;">&times;</span>
+      Client updated successfully
+    </div> 
+  </div>
+
+
+
+
+
